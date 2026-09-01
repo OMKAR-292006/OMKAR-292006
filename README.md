@@ -16,14 +16,14 @@ CS & Data Science Undergrad at NMIMS Hyderabad building full-stack platforms, re
 
  🚀 Featured Projects
 
- 🔹 [BidVault](https://github.com/OMKAR-292006)
+ 🔹 [BidVault](https://github.com/OMKAR-292006/BidVault)
 Real-Time Auction & Bidding Platform
 - Stack: Node.js, Express, Socket.io, AngularJS, MySQL 8, JWT, Cloudinary
 - Built a live bidding engine with Socket.io for real-time price updates and outbid alerts.
 - Designed an autonomous "Bid Buddy" auto-bidding system with race-condition throttling.
 - Prevented concurrent bidding conflicts using MySQL stored procedures with row-level locking and atomic transactional updates.
 
- 🔹 [BrandMatice](https://github.com/OMKAR-292006)
+ 🔹 [BrandMatice](https://github.com/OMKAR-292006/Virlo)
 AI-Powered Marketing & Growth Platform
 - Stack: Next.js, TypeScript, Tailwind CSS, Firebase / Firestore, Gemini API
 - Integrated Google Gemini API via secure Next.js server-side routes with a 5-model fallback chain for high uptime.
